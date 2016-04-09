@@ -2,6 +2,7 @@ name: Libertrip
 favicon: null
 layout_spectrum: 0.27023
 typography_spectrum: 0.70193682750687
+title: Wellcome
 cta:
   domain: null
   bucket: null
