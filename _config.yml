@@ -1,0 +1,28 @@
+name: Libertrip
+favicon: null
+layout_spectrum: 0.405481634195894
+typography_spectrum: 0.70193682750687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9962553540244699
+  lightness: 0.5145777428988367
+  saturation: 0.009833167539909482
+  rhythmicContrast: 0.31625821883790195
+purpose: []
